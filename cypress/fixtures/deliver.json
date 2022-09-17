@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Rogério Paiva",
+            "cpf": "00000012321",
+            "email": "rogerio@hotmail.com",
+            "whatsapp":"19999992222",
+            "address": {
+                "postalcode":"13061252",
+                "street":"Rua Monte Prano",
+                "number": "19",
+                "details": "casa",
+                "district": "Vila Castelo Branco",
+                "city_state": "Campinas/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Rogério Paiva",
+            "cpf": "00000012321AAA",
+            "email": "rogerio@hotmail.com",
+            "whatsapp":"19999992222",
+            "address": {
+                "postalcode":"13061252",
+                "street":"Rua Monte Prano",
+                "number": "19",
+                "details": "casa",
+                "district": "Vila Castelo Branco",
+                "city_state": "Campinas/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Rogério Paiva",
+            "cpf": "00000012321",
+            "email": "rogerio.com",
+            "whatsapp":"19999992222",
+            "address": {
+                "postalcode":"13061252",
+                "street":"Rua Monte Prano",
+                "number": "19",
+                "details": "casa",
+                "district": "Vila Castelo Branco",
+                "city_state": "Campinas/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    }
+}
